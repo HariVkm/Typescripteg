@@ -9,4 +9,4 @@ function addNumbers(a, b, c) {
     return (a + b + c);
 }
 var sum = addNumbers(a, b, c);
-(0, console_1.log)('Sum of two numbers is: ' + sum);
+(0, console_1.log)('Sum of three numbers is: ' + sum);
